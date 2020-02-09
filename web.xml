@@ -1,0 +1,13 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>aprs</servlet-name>  
+<servlet-class>Main</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>aprs</servlet-name>  
+<url-pattern>/home</url-pattern>  
+</servlet-mapping>  
+  
+</web-app>
