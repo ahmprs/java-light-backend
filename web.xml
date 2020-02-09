@@ -9,5 +9,7 @@
 <servlet-name>aprs</servlet-name>  
 <url-pattern>/home</url-pattern>  
 </servlet-mapping>  
-  
+  <!--
+      this is a comment
+  -->>
 </web-app>
